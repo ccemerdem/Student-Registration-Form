@@ -2,10 +2,10 @@
 **C# program that provides student's basic information tracking such as name-surname, faculty, and payments with SQL integration**
 <br> 
                                                                                 ⚠️ *(Codes are inside Form1.cs)* ⚠️
-- Detailed comment lines
-- Exception handling with multiple try-catches
 - UI & functions written in C#, database written in SQL
-
+- Exception handling with multiple try-catches
+- Detailed comment lines
+  
 - ## *Information and Warning pop-ups*
    <a>
      <img src="https://github.com/ccemerdem/Student-Registration-Form/assets/112133474/1b227a73-ff74-4d0b-8b29-e9368facd7ef" width="306" height="140" >
