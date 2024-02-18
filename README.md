@@ -6,7 +6,7 @@ C# program that provides student's basic information tracking such as name, surn
 
 <br>
 
-- UI & functions written in C#, database written in SQL
+- UI & functions written in C#, database written in MSSQL
 - Exception handling with multiple try-catches
 - Detailed comment lines
 
