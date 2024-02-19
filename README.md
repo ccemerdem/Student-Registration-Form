@@ -1,6 +1,6 @@
 
 # Student Registration Form 
-C# program that provides student's basic information tracking such as name, surname, faculty, payments, etc. with SQL integration <br>  
+C# program that provides students basic information tracking & storing with SQL integration 
 
 - UI & functions written in C#, database written in MSSQL
 - Exception handling with multiple try-catches
