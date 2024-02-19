@@ -26,7 +26,7 @@ C# program that provides student's basic information tracking such as name, surn
    </a> 
 
  ## *Add, Remove* & *Update functions*
-    <a>
+   <a>
      <img src="https://github.com/ccemerdem/Student-Registration-Form/assets/112133474/b3bea067-a7e3-4561-8f68-05aac8637b69" >
    </a> 
 
