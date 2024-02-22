@@ -1,5 +1,4 @@
-
-# Student Registration Form 
+# Info
 C# program that provides students basic information tracking & storing with SQL integration 
 
 - UI & functions written in C#, database written in MSSQL
