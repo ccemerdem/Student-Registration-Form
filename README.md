@@ -1,5 +1,5 @@
 # Info
-C# program for tracking and storing basic student information with SQL integration 
+**C#** program for tracking and storing basic student information with **SQL integration** 
 
 - UI & functions written in C#, database written in MSSQL
 - Exception handling with multiple try-catches
